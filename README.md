@@ -21,6 +21,7 @@ The project covered the following SQL operations and tasks:
 6. Deleting the newly inserted row from the "HR_EMP" table.
 7. Displaying the contents of the "HR_EMP" table after the deletion.
 8. Dropping the "HR_EMP" table to clean up.
+9. And more...
 
 **Technologies Used**
 

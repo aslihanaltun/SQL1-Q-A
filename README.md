@@ -1,4 +1,4 @@
-# SQL1-Q-A
+# SQL-Q-A
 **i2i Systems Internship Project**
 
 **About the Project**
